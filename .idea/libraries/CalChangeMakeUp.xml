@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CalChangeMakeUp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CalChangeMakeUp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
